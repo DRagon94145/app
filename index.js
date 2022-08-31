@@ -2,7 +2,12 @@ const express = require('express')
 const app = express()
 const { scrape } = require('./scraper')
 
-const PORT = process.env.PORT || 3000
+
+const http = require('http');
+
+const hostname = 'localhost';
+
+const port = 3000;
 
 app.get('/api/:bin', async (req, res) => {
     let data = await scrape(req.params.bin);
@@ -11,10 +16,11 @@ app.get('/api/:bin', async (req, res) => {
     res.send(data);
 })
 
-app.use(async (_, res) => {
-    res.redirect(301, 'https://github.com/DRagon94145/dragon-bin-api');
+server.listen(port, hostname, () => {
+
+  console.log(`Server running at http://${hostname}:${port}/`);
+
 })
 
-app.listen(PORT, () => console.log(`[Server]: Running ar PORT => ${PORT}`))
 
-module.exports = app
+
