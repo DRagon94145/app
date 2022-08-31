@@ -12,6 +12,8 @@ app.get('/api/:bin', async (req, res) => {
     res.send(data);
 });
 
-server.listen(port, hostname, () => {
+server.app(port, hostname, () => {
   console.log(`Server running at http://${hostname}:${port}/`);
 });
+
+module.exports = app
