@@ -1,0 +1,523 @@
+internal/modules/cjs/loader.js:638
+    throw err;
+    ^
+
+Error: Cannot find module 'express'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/serverdr/binapi/index.js:1:17)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+internal/modules/cjs/loader.js:638
+    throw err;
+    ^
+
+Error: Cannot find module 'express'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/serverdr/binapi/index.js:1:17)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+(node:2183754) UnhandledPromiseRejectionWarning: Error: Expected 1 country code as the first argument
+    at Object.countryCode (/home/serverdr/nodevenv/binapi/10/lib/node_modules/emoji-flags/index.js:9:13)
+    at scrape (/home/serverdr/binapi/scraper.js:48:29)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:2183754) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+(node:2183754) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+(node:2183754) UnhandledPromiseRejectionWarning: Error: Expected 1 country code as the first argument
+    at Object.countryCode (/home/serverdr/nodevenv/binapi/10/lib/node_modules/emoji-flags/index.js:9:13)
+    at scrape (/home/serverdr/binapi/scraper.js:48:29)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:2183754) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 2)
+(node:2183754) UnhandledPromiseRejectionWarning: Error: Expected 1 country code as the first argument
+    at Object.countryCode (/home/serverdr/nodevenv/binapi/10/lib/node_modules/emoji-flags/index.js:9:13)
+    at scrape (/home/serverdr/binapi/scraper.js:48:29)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:2183754) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 3)
+(node:2183754) UnhandledPromiseRejectionWarning: Error: Expected 1 country code as the first argument
+    at Object.countryCode (/home/serverdr/nodevenv/binapi/10/lib/node_modules/emoji-flags/index.js:9:13)
+    at scrape (/home/serverdr/binapi/scraper.js:48:29)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:2183754) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 4)
+(node:2183754) UnhandledPromiseRejectionWarning: Error: Expected 1 country code as the first argument
+    at Object.countryCode (/home/serverdr/nodevenv/binapi/10/lib/node_modules/emoji-flags/index.js:9:13)
+    at scrape (/home/serverdr/binapi/scraper.js:48:29)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:2183754) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 5)
+(node:2183754) UnhandledPromiseRejectionWarning: Error: Expected 1 country code as the first argument
+    at Object.countryCode (/home/serverdr/nodevenv/binapi/10/lib/node_modules/emoji-flags/index.js:9:13)
+    at scrape (/home/serverdr/binapi/scraper.js:48:29)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:2183754) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 6)
+(node:2183754) UnhandledPromiseRejectionWarning: Error: Expected 1 country code as the first argument
+    at Object.countryCode (/home/serverdr/nodevenv/binapi/10/lib/node_modules/emoji-flags/index.js:9:13)
+    at scrape (/home/serverdr/binapi/scraper.js:48:29)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:2183754) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 7)
+(node:2183754) UnhandledPromiseRejectionWarning: Error: Expected 1 country code as the first argument
+    at Object.countryCode (/home/serverdr/nodevenv/binapi/10/lib/node_modules/emoji-flags/index.js:9:13)
+    at scrape (/home/serverdr/binapi/scraper.js:48:29)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:2183754) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 8)
+(node:2183754) UnhandledPromiseRejectionWarning: Error: Expected 1 country code as the first argument
+    at Object.countryCode (/home/serverdr/nodevenv/binapi/10/lib/node_modules/emoji-flags/index.js:9:13)
+    at scrape (/home/serverdr/binapi/scraper.js:48:29)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:2183754) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 9)
+(node:2183754) UnhandledPromiseRejectionWarning: Error: Expected 1 country code as the first argument
+    at Object.countryCode (/home/serverdr/nodevenv/binapi/10/lib/node_modules/emoji-flags/index.js:9:13)
+    at scrape (/home/serverdr/binapi/scraper.js:48:29)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:2183754) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 10)
+(node:2183754) UnhandledPromiseRejectionWarning: Error: Expected 1 country code as the first argument
+    at Object.countryCode (/home/serverdr/nodevenv/binapi/10/lib/node_modules/emoji-flags/index.js:9:13)
+    at scrape (/home/serverdr/binapi/scraper.js:48:29)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:2183754) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 11)
+(node:2183754) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'toUpperCase' of undefined
+    at scrape (/home/serverdr/binapi/scraper.js:58:42)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:2183754) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 12)
+(node:2183754) UnhandledPromiseRejectionWarning: Error: Expected 1 country code as the first argument
+    at Object.countryCode (/home/serverdr/nodevenv/binapi/10/lib/node_modules/emoji-flags/index.js:9:13)
+    at scrape (/home/serverdr/binapi/scraper.js:48:29)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:2183754) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 13)
+(node:2183754) UnhandledPromiseRejectionWarning: Error: Expected 1 country code as the first argument
+    at Object.countryCode (/home/serverdr/nodevenv/binapi/10/lib/node_modules/emoji-flags/index.js:9:13)
+    at scrape (/home/serverdr/binapi/scraper.js:48:29)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:2183754) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 14)
+(node:2183754) UnhandledPromiseRejectionWarning: Error: Expected 1 country code as the first argument
+    at Object.countryCode (/home/serverdr/nodevenv/binapi/10/lib/node_modules/emoji-flags/index.js:9:13)
+    at scrape (/home/serverdr/binapi/scraper.js:48:29)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:2183754) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 15)
+(node:2183754) UnhandledPromiseRejectionWarning: Error: Expected 1 country code as the first argument
+    at Object.countryCode (/home/serverdr/nodevenv/binapi/10/lib/node_modules/emoji-flags/index.js:9:13)
+    at scrape (/home/serverdr/binapi/scraper.js:48:29)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:2183754) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 16)
+(node:2183754) UnhandledPromiseRejectionWarning: Error: Expected 1 country code as the first argument
+    at Object.countryCode (/home/serverdr/nodevenv/binapi/10/lib/node_modules/emoji-flags/index.js:9:13)
+    at scrape (/home/serverdr/binapi/scraper.js:48:29)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:2183754) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 17)
+(node:2183754) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'toUpperCase' of undefined
+    at scrape (/home/serverdr/binapi/scraper.js:58:42)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:2183754) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 18)
+(node:2183754) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'toUpperCase' of undefined
+    at scrape (/home/serverdr/binapi/scraper.js:58:42)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:2183754) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 19)
+(node:2183754) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'toUpperCase' of undefined
+    at scrape (/home/serverdr/binapi/scraper.js:58:42)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:2183754) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 20)
+(node:2183754) UnhandledPromiseRejectionWarning: Error: Expected 1 country code as the first argument
+    at Object.countryCode (/home/serverdr/nodevenv/binapi/10/lib/node_modules/emoji-flags/index.js:9:13)
+    at scrape (/home/serverdr/binapi/scraper.js:48:29)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:2183754) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 21)
+(node:2183754) UnhandledPromiseRejectionWarning: Error: Expected 1 country code as the first argument
+    at Object.countryCode (/home/serverdr/nodevenv/binapi/10/lib/node_modules/emoji-flags/index.js:9:13)
+    at scrape (/home/serverdr/binapi/scraper.js:48:29)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:2183754) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 22)
+(node:2183754) UnhandledPromiseRejectionWarning: Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:111:27)
+(node:2183754) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 24)
+(node:2183754) UnhandledPromiseRejectionWarning: Error: connect ETIMEDOUT 195.133.20.249:80
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1107:14)
+(node:2183754) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 26)
+(node:2183754) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'toUpperCase' of undefined
+    at scrape (/home/serverdr/binapi/scraper.js:58:42)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:2183754) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 27)
+(node:2183754) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'toUpperCase' of undefined
+    at scrape (/home/serverdr/binapi/scraper.js:58:42)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:2183754) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 28)
+(node:2183754) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'toUpperCase' of undefined
+    at scrape (/home/serverdr/binapi/scraper.js:58:42)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:2183754) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 29)
+(node:2183754) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'toUpperCase' of undefined
+    at scrape (/home/serverdr/binapi/scraper.js:58:42)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:2183754) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 30)
+(node:2183754) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'toUpperCase' of undefined
+    at scrape (/home/serverdr/binapi/scraper.js:58:42)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:2183754) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 31)
+(node:2183754) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'toUpperCase' of undefined
+    at scrape (/home/serverdr/binapi/scraper.js:58:42)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:2183754) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 32)
+(node:2183754) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'toUpperCase' of undefined
+    at scrape (/home/serverdr/binapi/scraper.js:58:42)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:2183754) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 33)
+(node:2183754) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'toUpperCase' of undefined
+    at scrape (/home/serverdr/binapi/scraper.js:58:42)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:2183754) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 34)
+(node:2183754) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'toUpperCase' of undefined
+    at scrape (/home/serverdr/binapi/scraper.js:58:42)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:2183754) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 35)
+(node:2183754) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'toUpperCase' of undefined
+    at scrape (/home/serverdr/binapi/scraper.js:58:42)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:2183754) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 36)
+(node:2183754) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'toUpperCase' of undefined
+    at scrape (/home/serverdr/binapi/scraper.js:58:42)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:2183754) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 37)
+(node:2183754) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'toUpperCase' of undefined
+    at scrape (/home/serverdr/binapi/scraper.js:58:42)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:2183754) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 38)
+(node:2183754) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'toUpperCase' of undefined
+    at scrape (/home/serverdr/binapi/scraper.js:58:42)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:2183754) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 39)
+(node:2183754) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'toUpperCase' of undefined
+    at scrape (/home/serverdr/binapi/scraper.js:58:42)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:2183754) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 40)
+(node:2183754) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'toUpperCase' of undefined
+    at scrape (/home/serverdr/binapi/scraper.js:58:42)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:2183754) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 41)
+(node:2183754) UnhandledPromiseRejectionWarning: Error: Expected 1 country code as the first argument
+    at Object.countryCode (/home/serverdr/nodevenv/binapi/10/lib/node_modules/emoji-flags/index.js:9:13)
+    at scrape (/home/serverdr/binapi/scraper.js:48:29)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:2183754) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 42)
+(node:2183754) UnhandledPromiseRejectionWarning: Error: Expected 1 country code as the first argument
+    at Object.countryCode (/home/serverdr/nodevenv/binapi/10/lib/node_modules/emoji-flags/index.js:9:13)
+    at scrape (/home/serverdr/binapi/scraper.js:48:29)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:2183754) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 43)
+(node:2183754) UnhandledPromiseRejectionWarning: Error: Expected 1 country code as the first argument
+    at Object.countryCode (/home/serverdr/nodevenv/binapi/10/lib/node_modules/emoji-flags/index.js:9:13)
+    at scrape (/home/serverdr/binapi/scraper.js:48:29)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:2183754) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 44)
+(node:2183754) UnhandledPromiseRejectionWarning: Error: Expected 1 country code as the first argument
+    at Object.countryCode (/home/serverdr/nodevenv/binapi/10/lib/node_modules/emoji-flags/index.js:9:13)
+    at scrape (/home/serverdr/binapi/scraper.js:48:29)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:2183754) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 45)
+(node:2183754) UnhandledPromiseRejectionWarning: Error: Expected 1 country code as the first argument
+    at Object.countryCode (/home/serverdr/nodevenv/binapi/10/lib/node_modules/emoji-flags/index.js:9:13)
+    at scrape (/home/serverdr/binapi/scraper.js:48:29)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:2183754) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 46)
+(node:351680) UnhandledPromiseRejectionWarning: Error: Expected 1 country code as the first argument
+    at Object.countryCode (/home/serverdr/nodevenv/binapi/10/lib/node_modules/emoji-flags/index.js:9:13)
+    at scrape (/home/serverdr/binapi/scraper.js:48:29)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:351680) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+(node:351680) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+(node:351680) UnhandledPromiseRejectionWarning: Error: Expected 1 country code as the first argument
+    at Object.countryCode (/home/serverdr/nodevenv/binapi/10/lib/node_modules/emoji-flags/index.js:9:13)
+    at scrape (/home/serverdr/binapi/scraper.js:48:29)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:351680) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 2)
+(node:351680) UnhandledPromiseRejectionWarning: Error: Expected 1 country code as the first argument
+    at Object.countryCode (/home/serverdr/nodevenv/binapi/10/lib/node_modules/emoji-flags/index.js:9:13)
+    at scrape (/home/serverdr/binapi/scraper.js:48:29)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:351680) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 3)
+(node:351680) UnhandledPromiseRejectionWarning: Error: Expected 1 country code as the first argument
+    at Object.countryCode (/home/serverdr/nodevenv/binapi/10/lib/node_modules/emoji-flags/index.js:9:13)
+    at scrape (/home/serverdr/binapi/scraper.js:48:29)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:351680) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 4)
+(node:351680) UnhandledPromiseRejectionWarning: Error: Request failed with status code 500
+    at createError (/home/serverdr/nodevenv/binapi/10/lib/node_modules/axios/lib/core/createError.js:16:15)
+    at settle (/home/serverdr/nodevenv/binapi/10/lib/node_modules/axios/lib/core/settle.js:17:12)
+    at IncomingMessage.handleStreamEnd (/home/serverdr/nodevenv/binapi/10/lib/node_modules/axios/lib/adapters/http.js:269:11)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+(node:351680) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 6)
+(node:351680) UnhandledPromiseRejectionWarning: Error: Expected 1 country code as the first argument
+    at Object.countryCode (/home/serverdr/nodevenv/binapi/10/lib/node_modules/emoji-flags/index.js:9:13)
+    at scrape (/home/serverdr/binapi/scraper.js:48:29)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:351680) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 7)
+(node:351680) UnhandledPromiseRejectionWarning: Error: Expected 1 country code as the first argument
+    at Object.countryCode (/home/serverdr/nodevenv/binapi/10/lib/node_modules/emoji-flags/index.js:9:13)
+    at scrape (/home/serverdr/binapi/scraper.js:48:29)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:351680) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 8)
+(node:351680) UnhandledPromiseRejectionWarning: Error: Request failed with status code 500
+    at createError (/home/serverdr/nodevenv/binapi/10/lib/node_modules/axios/lib/core/createError.js:16:15)
+    at settle (/home/serverdr/nodevenv/binapi/10/lib/node_modules/axios/lib/core/settle.js:17:12)
+    at IncomingMessage.handleStreamEnd (/home/serverdr/nodevenv/binapi/10/lib/node_modules/axios/lib/adapters/http.js:269:11)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+(node:351680) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 10)
+(node:351680) UnhandledPromiseRejectionWarning: Error: Expected 1 country code as the first argument
+    at Object.countryCode (/home/serverdr/nodevenv/binapi/10/lib/node_modules/emoji-flags/index.js:9:13)
+    at scrape (/home/serverdr/binapi/scraper.js:48:29)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:351680) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 11)
+(node:351680) UnhandledPromiseRejectionWarning: Error: Expected 1 country code as the first argument
+    at Object.countryCode (/home/serverdr/nodevenv/binapi/10/lib/node_modules/emoji-flags/index.js:9:13)
+    at scrape (/home/serverdr/binapi/scraper.js:48:29)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:351680) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 12)
+(node:351680) UnhandledPromiseRejectionWarning: Error: Expected 1 country code as the first argument
+    at Object.countryCode (/home/serverdr/nodevenv/binapi/10/lib/node_modules/emoji-flags/index.js:9:13)
+    at scrape (/home/serverdr/binapi/scraper.js:48:29)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:351680) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 13)
+(node:351680) UnhandledPromiseRejectionWarning: Error: Expected 1 country code as the first argument
+    at Object.countryCode (/home/serverdr/nodevenv/binapi/10/lib/node_modules/emoji-flags/index.js:9:13)
+    at scrape (/home/serverdr/binapi/scraper.js:48:29)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:351680) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 14)
+(node:351680) UnhandledPromiseRejectionWarning: Error: Expected 1 country code as the first argument
+    at Object.countryCode (/home/serverdr/nodevenv/binapi/10/lib/node_modules/emoji-flags/index.js:9:13)
+    at scrape (/home/serverdr/binapi/scraper.js:48:29)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:351680) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 15)
+(node:351680) UnhandledPromiseRejectionWarning: Error: Expected 1 country code as the first argument
+    at Object.countryCode (/home/serverdr/nodevenv/binapi/10/lib/node_modules/emoji-flags/index.js:9:13)
+    at scrape (/home/serverdr/binapi/scraper.js:48:29)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:351680) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 16)
+(node:351680) UnhandledPromiseRejectionWarning: Error: connect ETIMEDOUT 195.133.20.249:80
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1107:14)
+(node:351680) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 18)
+(node:351680) UnhandledPromiseRejectionWarning: Error: connect ETIMEDOUT 195.133.20.249:80
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1107:14)
+(node:351680) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 20)
+(node:351680) UnhandledPromiseRejectionWarning: Error: connect ETIMEDOUT 195.133.20.249:80
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1107:14)
+(node:351680) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 22)
+(node:351680) UnhandledPromiseRejectionWarning: Error: connect ETIMEDOUT 195.133.20.249:80
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1107:14)
+(node:351680) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 24)
+(node:351680) UnhandledPromiseRejectionWarning: Error: connect ETIMEDOUT 195.133.20.249:80
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1107:14)
+(node:351680) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 26)
+(node:351680) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'toUpperCase' of undefined
+    at scrape (/home/serverdr/binapi/scraper.js:58:42)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:351680) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 27)
+(node:351680) UnhandledPromiseRejectionWarning: Error: connect ETIMEDOUT 195.133.20.249:80
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1107:14)
+(node:351680) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 29)
+(node:351680) UnhandledPromiseRejectionWarning: Error: connect ETIMEDOUT 195.133.20.249:80
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1107:14)
+(node:351680) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 31)
+(node:351680) UnhandledPromiseRejectionWarning: Error: connect ETIMEDOUT 195.133.20.249:80
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1107:14)
+(node:351680) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 33)
+(node:351680) UnhandledPromiseRejectionWarning: Error: connect ETIMEDOUT 195.133.20.249:80
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1107:14)
+(node:351680) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 35)
+(node:351680) UnhandledPromiseRejectionWarning: Error: connect ETIMEDOUT 195.133.20.249:80
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1107:14)
+(node:351680) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 37)
+(node:74673) UnhandledPromiseRejectionWarning: Error: Expected 1 country code as the first argument
+    at Object.countryCode (/home/serverdr/nodevenv/binapi/10/lib/node_modules/emoji-flags/index.js:9:13)
+    at scrape (/home/serverdr/binapi/scraper.js:48:29)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:74673) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+(node:74673) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+(node:2268042) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'toUpperCase' of undefined
+    at scrape (/home/serverdr/binapi/scraper.js:58:42)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:2268042) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+(node:2268042) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+(node:2268042) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'toUpperCase' of undefined
+    at scrape (/home/serverdr/binapi/scraper.js:58:42)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:2268042) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 2)
+(node:2268042) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'toUpperCase' of undefined
+    at scrape (/home/serverdr/binapi/scraper.js:58:42)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:2268042) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 3)
+(node:820520) UnhandledPromiseRejectionWarning: Error: Expected 1 country code as the first argument
+    at Object.countryCode (/home/serverdr/nodevenv/binapi/10/lib/node_modules/emoji-flags/index.js:9:13)
+    at scrape (/home/serverdr/binapi/scraper.js:48:29)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:820520) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+(node:820520) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+(node:820520) UnhandledPromiseRejectionWarning: Error: Expected 1 country code as the first argument
+    at Object.countryCode (/home/serverdr/nodevenv/binapi/10/lib/node_modules/emoji-flags/index.js:9:13)
+    at scrape (/home/serverdr/binapi/scraper.js:48:29)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:820520) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 2)
+(node:820520) UnhandledPromiseRejectionWarning: Error: Expected 1 country code as the first argument
+    at Object.countryCode (/home/serverdr/nodevenv/binapi/10/lib/node_modules/emoji-flags/index.js:9:13)
+    at scrape (/home/serverdr/binapi/scraper.js:48:29)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:820520) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 3)
+(node:820520) UnhandledPromiseRejectionWarning: Error: Expected 1 country code as the first argument
+    at Object.countryCode (/home/serverdr/nodevenv/binapi/10/lib/node_modules/emoji-flags/index.js:9:13)
+    at scrape (/home/serverdr/binapi/scraper.js:48:29)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:820520) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 4)
+(node:820520) UnhandledPromiseRejectionWarning: Error: Request failed with status code 500
+    at createError (/home/serverdr/nodevenv/binapi/10/lib/node_modules/axios/lib/core/createError.js:16:15)
+    at settle (/home/serverdr/nodevenv/binapi/10/lib/node_modules/axios/lib/core/settle.js:17:12)
+    at IncomingMessage.handleStreamEnd (/home/serverdr/nodevenv/binapi/10/lib/node_modules/axios/lib/adapters/http.js:269:11)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+(node:820520) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 6)
+(node:820520) UnhandledPromiseRejectionWarning: Error: Expected 1 country code as the first argument
+    at Object.countryCode (/home/serverdr/nodevenv/binapi/10/lib/node_modules/emoji-flags/index.js:9:13)
+    at scrape (/home/serverdr/binapi/scraper.js:48:29)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:820520) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 7)
+(node:820520) UnhandledPromiseRejectionWarning: Error: Expected 1 country code as the first argument
+    at Object.countryCode (/home/serverdr/nodevenv/binapi/10/lib/node_modules/emoji-flags/index.js:9:13)
+    at scrape (/home/serverdr/binapi/scraper.js:48:29)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:820520) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 8)
+(node:820520) UnhandledPromiseRejectionWarning: Error: Expected 1 country code as the first argument
+    at Object.countryCode (/home/serverdr/nodevenv/binapi/10/lib/node_modules/emoji-flags/index.js:9:13)
+    at scrape (/home/serverdr/binapi/scraper.js:48:29)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:820520) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 9)
+(node:3681373) UnhandledPromiseRejectionWarning: Error: Expected 1 country code as the first argument
+    at Object.countryCode (/home/serverdr/nodevenv/binapi/10/lib/node_modules/emoji-flags/index.js:9:13)
+    at scrape (/home/serverdr/binapi/scraper.js:48:29)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:3681373) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+(node:3681373) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+(node:3681373) UnhandledPromiseRejectionWarning: Error: Expected 1 country code as the first argument
+    at Object.countryCode (/home/serverdr/nodevenv/binapi/10/lib/node_modules/emoji-flags/index.js:9:13)
+    at scrape (/home/serverdr/binapi/scraper.js:48:29)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:3681373) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 2)
+(node:3681373) UnhandledPromiseRejectionWarning: Error: Expected 1 country code as the first argument
+    at Object.countryCode (/home/serverdr/nodevenv/binapi/10/lib/node_modules/emoji-flags/index.js:9:13)
+    at scrape (/home/serverdr/binapi/scraper.js:48:29)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:3681373) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 3)
+(node:3681373) UnhandledPromiseRejectionWarning: Error: Expected 1 country code as the first argument
+    at Object.countryCode (/home/serverdr/nodevenv/binapi/10/lib/node_modules/emoji-flags/index.js:9:13)
+    at scrape (/home/serverdr/binapi/scraper.js:48:29)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:3681373) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 4)
+(node:3681373) UnhandledPromiseRejectionWarning: Error: Expected 1 country code as the first argument
+    at Object.countryCode (/home/serverdr/nodevenv/binapi/10/lib/node_modules/emoji-flags/index.js:9:13)
+    at scrape (/home/serverdr/binapi/scraper.js:48:29)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:3681373) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 5)
+(node:3681373) UnhandledPromiseRejectionWarning: Error: Expected 1 country code as the first argument
+    at Object.countryCode (/home/serverdr/nodevenv/binapi/10/lib/node_modules/emoji-flags/index.js:9:13)
+    at scrape (/home/serverdr/binapi/scraper.js:48:29)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:3681373) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 6)
+(node:3681373) UnhandledPromiseRejectionWarning: Error: Expected 1 country code as the first argument
+    at Object.countryCode (/home/serverdr/nodevenv/binapi/10/lib/node_modules/emoji-flags/index.js:9:13)
+    at scrape (/home/serverdr/binapi/scraper.js:48:29)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:3681373) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 7)
+(node:3681373) UnhandledPromiseRejectionWarning: Error: Expected 1 country code as the first argument
+    at Object.countryCode (/home/serverdr/nodevenv/binapi/10/lib/node_modules/emoji-flags/index.js:9:13)
+    at scrape (/home/serverdr/binapi/scraper.js:48:29)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:3681373) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 8)
+(node:3681373) UnhandledPromiseRejectionWarning: Error: Expected 1 country code as the first argument
+    at Object.countryCode (/home/serverdr/nodevenv/binapi/10/lib/node_modules/emoji-flags/index.js:9:13)
+    at scrape (/home/serverdr/binapi/scraper.js:48:29)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:3681373) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 9)
+(node:3681373) UnhandledPromiseRejectionWarning: Error: Expected 1 country code as the first argument
+    at Object.countryCode (/home/serverdr/nodevenv/binapi/10/lib/node_modules/emoji-flags/index.js:9:13)
+    at scrape (/home/serverdr/binapi/scraper.js:48:29)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:3681373) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 10)
+(node:3681373) UnhandledPromiseRejectionWarning: Error: Expected 1 country code as the first argument
+    at Object.countryCode (/home/serverdr/nodevenv/binapi/10/lib/node_modules/emoji-flags/index.js:9:13)
+    at scrape (/home/serverdr/binapi/scraper.js:48:29)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:3681373) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 11)
+(node:3681373) UnhandledPromiseRejectionWarning: Error: Expected 1 country code as the first argument
+    at Object.countryCode (/home/serverdr/nodevenv/binapi/10/lib/node_modules/emoji-flags/index.js:9:13)
+    at scrape (/home/serverdr/binapi/scraper.js:48:29)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:3681373) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 12)
+(node:3681373) UnhandledPromiseRejectionWarning: Error: Expected 1 country code as the first argument
+    at Object.countryCode (/home/serverdr/nodevenv/binapi/10/lib/node_modules/emoji-flags/index.js:9:13)
+    at scrape (/home/serverdr/binapi/scraper.js:48:29)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:3681373) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 13)
+(node:3681373) UnhandledPromiseRejectionWarning: Error: Expected 1 country code as the first argument
+    at Object.countryCode (/home/serverdr/nodevenv/binapi/10/lib/node_modules/emoji-flags/index.js:9:13)
+    at scrape (/home/serverdr/binapi/scraper.js:48:29)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:3681373) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 14)
+(node:3681373) UnhandledPromiseRejectionWarning: Error: Expected 1 country code as the first argument
+    at Object.countryCode (/home/serverdr/nodevenv/binapi/10/lib/node_modules/emoji-flags/index.js:9:13)
+    at scrape (/home/serverdr/binapi/scraper.js:48:29)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:3681373) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 15)
+(node:3681373) UnhandledPromiseRejectionWarning: Error: Expected 1 country code as the first argument
+    at Object.countryCode (/home/serverdr/nodevenv/binapi/10/lib/node_modules/emoji-flags/index.js:9:13)
+    at scrape (/home/serverdr/binapi/scraper.js:48:29)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:3681373) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 16)
+(node:3681373) UnhandledPromiseRejectionWarning: Error: Expected 1 country code as the first argument
+    at Object.countryCode (/home/serverdr/nodevenv/binapi/10/lib/node_modules/emoji-flags/index.js:9:13)
+    at scrape (/home/serverdr/binapi/scraper.js:48:29)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:3681373) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 17)
+(node:3681373) UnhandledPromiseRejectionWarning: Error: Expected 1 country code as the first argument
+    at Object.countryCode (/home/serverdr/nodevenv/binapi/10/lib/node_modules/emoji-flags/index.js:9:13)
+    at scrape (/home/serverdr/binapi/scraper.js:48:29)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:3681373) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 18)
+(node:3681373) UnhandledPromiseRejectionWarning: Error: Expected 1 country code as the first argument
+    at Object.countryCode (/home/serverdr/nodevenv/binapi/10/lib/node_modules/emoji-flags/index.js:9:13)
+    at scrape (/home/serverdr/binapi/scraper.js:48:29)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:3681373) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 19)
+(node:3681373) UnhandledPromiseRejectionWarning: Error: Expected 1 country code as the first argument
+    at Object.countryCode (/home/serverdr/nodevenv/binapi/10/lib/node_modules/emoji-flags/index.js:9:13)
+    at scrape (/home/serverdr/binapi/scraper.js:48:29)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:3681373) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 20)
+(node:3681373) UnhandledPromiseRejectionWarning: Error: Expected 1 country code as the first argument
+    at Object.countryCode (/home/serverdr/nodevenv/binapi/10/lib/node_modules/emoji-flags/index.js:9:13)
+    at scrape (/home/serverdr/binapi/scraper.js:48:29)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:3681373) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 21)
+(node:3681373) UnhandledPromiseRejectionWarning: Error: Expected 1 country code as the first argument
+    at Object.countryCode (/home/serverdr/nodevenv/binapi/10/lib/node_modules/emoji-flags/index.js:9:13)
+    at scrape (/home/serverdr/binapi/scraper.js:48:29)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:3681373) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 22)
+(node:3681373) UnhandledPromiseRejectionWarning: Error: Expected 1 country code as the first argument
+    at Object.countryCode (/home/serverdr/nodevenv/binapi/10/lib/node_modules/emoji-flags/index.js:9:13)
+    at scrape (/home/serverdr/binapi/scraper.js:48:29)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:3681373) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 23)
+(node:3681373) UnhandledPromiseRejectionWarning: Error: Expected 1 country code as the first argument
+    at Object.countryCode (/home/serverdr/nodevenv/binapi/10/lib/node_modules/emoji-flags/index.js:9:13)
+    at scrape (/home/serverdr/binapi/scraper.js:48:29)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:3681373) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 24)
