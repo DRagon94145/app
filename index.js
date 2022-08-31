@@ -12,7 +12,7 @@ app.get('/api/:bin', async (req, res) => {
     res.send(data);
 });
 
-app. location(port, hostname, () => {
+app.location(port, hostname, () => {
   console.log(`Server running at http://${hostname}:${port}/`);
 });
 
